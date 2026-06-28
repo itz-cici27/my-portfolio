@@ -2,14 +2,13 @@
 
 Welcome to my personal portfolio website repository! This site serves as a central hub to showcase my technical projects, engineering experience, and data science background.
 
-## 🚀 Live Demo
-[View my live portfolio here!](LIVE_WEBSITE_LINK_TO_BE_ADDED_HERE)
+## 🚀 Live Site
+👉 **[View My Portfolio](YOUR_LIVE_WEBSITE_LINK_HERE)**
 
-## 🛠️ Built With
-* **Framework:** React / Next.js
-* **Language:** TypeScript
-* **Styling:** Tailwind CSS
-* **Build Tool:** Vite
+## 🛠️ Tech Stack
+* React 19, TypeScript, Vite
+* Tailwind CSS, Radix UI, Lucide Icons
+* GSAP, React Spring, OGL (WebGL)
 
-## ✒️ Credit
-Template originally created by [cupidbity](https://github.com/cupidbity). Modified and maintained by me.
+---
+*Template starter by [cupidbity](https://github.com/cupidbity).*
